@@ -1,5 +1,6 @@
-<img src="https://github.com/tiffanyrossi/tiffanyrossi/blob/main/icon%20piccrew.png" align="right" width="300">
 ### hi, i'm tiffany 👋
+
+<img src="https://github.com/tiffanyrossi/tiffanyrossi/blob/main/icon%20piccrew.png" align="right" width="300">
 
 👩‍💻 i'm a software development student<br>
 📍 based in são paulo/brazil<br>
