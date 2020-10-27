@@ -1,16 +1,12 @@
-### Hi there 👋
+### hi, i'm tiffany 👋
 
-<!--
-**tiffanyrossi/tiffanyrossi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👩‍💻 i'm a software development student<br>
+📍 based in são paulo/brazil<br>
+👩‍🦱 pronouns: she/her<br>
+📚 currently learning: python • git • github<br>
+🤓 i'm interested in: machine learning • artificial intelligence<br>
+🎥 other skills: video editing • content creation • inbound marketing • writing
+<br><br>
+⚡ fun fact: i'm a video editor and producer who decided to switch careers. i have always wanted to be a dev, but life led me to a different path. i decided to finally listen to my grandma, who said, back in 2002, "you should work with this *computer thing* since you like it so much".
+<br><br>
+✍️ i write about my learning path's joys and sorrows in my <a href="http://dev.to/tiffanyrossi" target="_blank">dev.to page</a>
