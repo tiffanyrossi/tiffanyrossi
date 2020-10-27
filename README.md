@@ -1,5 +1,5 @@
 ### hi, i'm tiffany 👋
-<img src="https://share-cdn.picrew.me/app/share/202010/457262_XKpIZsi3.png" align="right">
+<img src="https://share-cdn.picrew.me/app/share/202010/457262_XKpIZsi3.png" align="right" width="300">
 👩‍💻 i'm a software development student<br>
 📍 based in são paulo/brazil<br>
 👩‍🦱 pronouns: she/her<br>
