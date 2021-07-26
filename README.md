@@ -2,11 +2,10 @@
 
 <img src="https://github.com/tiffanyrossi/tiffanyrossi/blob/main/icon%20piccrew.png" align="right" width="300">
 
-👩‍💻 i'm a software development student<br>
-📍 based in são paulo/brazil<br>
+👩‍💻 i'm a software development student and a full-stack intern<br>
+📍 based in santo andré/brazil<br>
 👩‍🦱 pronouns: she/her<br>
-📚 currently learning: python • git • github<br>
-🤓 i'm interested in: machine learning • artificial intelligence<br>
+📚 currently learning: javascript • react<br>
 🎥 other skills: video editing • content creation • inbound marketing • writing
 <br><br>
 ⚡ fun fact: i'm a video editor and producer who decided to switch careers. i have always wanted to be a dev, but life led me to a different path. i decided to finally listen to my grandma, who said, back in 2002, "you should work with this *computer thing* since you like it so much".
