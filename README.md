@@ -1,6 +1,6 @@
 ### hi, i'm tiffany 👋
 
-<img src="https://github.com/tiffanyrossi/tiffanyrossi/blob/main/icon%20piccrew.png" align="right" width="300">
+<img src="https://github.com/tiffanyrossi/tiffanyrossi/blob/main/457262_m17HCWda.png" align="right" width="300">
 
 👩‍💻 i'm a software development student and a full-stack intern<br>
 📍 based in santo andré/brazil<br>
