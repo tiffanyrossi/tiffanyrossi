@@ -1,4 +1,4 @@
-### hi, i'm tiffany 👋
+## hi, i'm tiffany 👋
 <hr />
 <img src="https://github.com/tiffanyrossi/tiffanyrossi/blob/main/457262_m17HCWda.png" align="right" width="300">
 👩‍💻 trainee java developer @ NAVA<br />
